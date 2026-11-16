@@ -3,7 +3,7 @@
 ## :nerd_face: Welcome to my GitHub Page!
  As a seasoned researcher and data analyst with 7 years of experience, I bring my expertise in both computer science and biological sciences to the table! :computer: :microscope:
 
-I hold an Associate degree in Computer Science, a Bachelor of Technology in Biological Sciences, and an MSc. in Biotechnology, so you can trust that I know what I'm talking about! :mortar_board: :books:
+I hold an Associate degree in Computer Science, a Bachelor of Technology in Biochemistry, and an MSc. in Biotechnology, so you can trust that I know what I'm talking about! :mortar_board: :books:
 
 ### As a freelancer, I offer a range of services including:
 
